@@ -1,5 +1,5 @@
 {
-  "name": "timestamp",
+  "name": "freecodecamp-timestamp-apiproj",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,6 +8,13 @@
   },
   "author": "dryyyyy",
   "license": "ISC",
+  "engines": {
+    "node": "4.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dryyyyy/timestamp"
+  }
   "dependencies": {
     "express": "^4.15.3",
     "moment": "^2.18.1",
