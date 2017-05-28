@@ -1,0 +1,8 @@
+{
+  "name": "the first freecodecamp api project.js",
+  "description": "converts date from query into an object containing unix timestamp and natural date",
+  "repository": "https://github.com/dryyyyy/timestamp",
+  "logo": "N/A",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
